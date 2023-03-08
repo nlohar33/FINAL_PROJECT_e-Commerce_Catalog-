@@ -1,2 +1,2 @@
-# FINAL_PROJECT_e-Commerce_Catalog
-FINAL_PROJECT_e-Commerce_Catalog 
+# agile-final-project
+agile-final-project
